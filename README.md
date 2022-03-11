@@ -9,4 +9,6 @@ Prodi = D-3 MI
 
 ![sebelum](img/sebelum.png)
 
+![ubah](img/ubah.png)
+
 ![sesudah](img/sesudah.png)
